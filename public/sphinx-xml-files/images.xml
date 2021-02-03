@@ -7,13 +7,13 @@
         <title>Examples of figures and images</title>
         <section ids="figures-must-have-captions" names="figures\ must\ have\ captions">
             <title>Figures must have captions</title>
-            <figure align="right" ids="example1-name" names="example1_name" width="6.5cm">
+            <figure align="center" ids="example1-name" names="example1_name" width="6.5cm">
                 <image alt="My first example figure" candidates="{'*': 'images/image1.png'}" uri="images/image1.png"></image>
                 <caption>Example image caption.</caption>
             </figure>
             <section ids="images-have-no-restrictions" names="images\ have\ no\ restrictions">
                 <title>Images have no restrictions</title>
-                <image alt="My second example, an image" candidates="{'*': 'images/image2.jpg'}" ids="example2-name" names="example2_name" uri="images/image2.jpg"></image>
+                <image align="center" alt="My second example, an image" candidates="{'*': 'images/image2.jpg'}" ids="example2-name" names="example2_name" uri="images/image2.jpg" width="6.5cm"></image>
             </section>
         </section>
     </section>

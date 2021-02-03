@@ -5,7 +5,7 @@
     <target refid="maths"></target>
     <section ids="an-example-of-maths-rendering maths" names="an\ example\ of\ maths\ rendering maths">
         <title>An example of maths rendering</title>
-        <paragraph><problematic ids="id2" refid="id1">**</problematic>CONTENTS OF THIS PAGE TAKEN FROM <reference refuri="https://github.com/solanolabs/sphinx/blob/master/doc/ext/math.rst">https://github.com/solanolabs/sphinx/blob/master/doc/ext/math.rst</reference> **</paragraph>
+        <paragraph><strong>CONTENTS OF THIS PAGE TAKEN FROM https://github.com/solanolabs/sphinx/blob/master/doc/ext/math.rst</strong></paragraph>
         <paragraph>Role for inline math.  Use like this:</paragraph>
         <literal_block force="False" language="default" linenos="False" xml:space="preserve">Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.</literal_block>
         <paragraph>Since Pythagoras, we know that <math>a^2 + b^2 = c^2</math>.</paragraph>
