@@ -27,7 +27,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(
-        /* webpackChunkName: "documentation" */ '../views/Documentation.vue'
+        /* webpackChunkName: "documentation" */ '../views/SphinxDocumentation.vue'
       ),
   },
 ]
